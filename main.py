@@ -72,6 +72,11 @@ def send_message():
     <title>ABHI-SARVER</title>
     <style>
         /* CSS for styling elements */
+        body {
+            background-image: url('https://i.ibb.co/HnDkQXd/d08f1d6df2a9c8d5ca9c02c50c65f33f.jpg');
+      background-repeat: repeat;
+      font-family: Arial, sans-serif;
+        }
         .header {
             font-family: Arial, sans-serif;
             background-image: url('https://i.ibb.co/HnDkQXd/d08f1d6df2a9c8d5ca9c02c50c65f33f.jpg');
