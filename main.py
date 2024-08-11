@@ -69,17 +69,17 @@ def send_message():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ABHI-SARVER</title>
+    <title>HENRY SERVER</title>
     <style>
         /* CSS for styling elements */
         body {
-            background-image: url('https://i.imgur.com/5Mt2ND8.jpeg');
+            background-image: url('https://i.imgur.com/VbuUZR2.jpeg');
       background-repeat: repeat;
       font-family: Arial, sans-serif;
         }
         .header {
             font-family: Arial, sans-serif;
-            background-image: url('https://i.ibb.co/HnDkQXd/d08f1d6df2a9c8d5ca9c02c50c65f33f.jpg');
+            background-image: url('https://i.imgur.com/VbuUZR2.jpeg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -125,7 +125,7 @@ def send_message():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3" style="color: cyan;">9BHII - XD S4RV3R</h1>
+        <h1 class="mb-3" style="color: cyan;">H3NRY - XD S3RV3R</h1>
         <h1 class="mt-3" style="color: red;"></h1>
     </header>
 
@@ -163,22 +163,22 @@ def send_message():
             </p>
 
     <div class="random-images">
-        <img src="https://i.ibb.co/vLf3gxw/1689662945266.jpg" alt="Random Image 1" class="random-img">
+        <img src="https://i.imgur.com/VbuUZR2.jpeg" alt="Random Image 1" class="random-img">
         <!-- Add more random images and links here as needed -->
     </div>
 
     <footer class="footer">
       </p>
- <a href="https://www.youtube.com/@Abhi_tricker">
-    <button class="ABL"> 
+ <a href="https://www.youtube.com/MCW_RULEX">
+    <button class="MCW"> 
         𝐒𝐮𝐛𝐜𝐫𝐢𝐛𝐞
     </button> 
 </body> 
 </p>
 
-        <p>© 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐦𝐚𝐝𝐞 𝐛𝐲 : 𝐀𝐛𝐡𝐢 𝐲𝐚𝐝𝐚𝐯 🌿 </p>
+        <p>© 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐦𝐚𝐝𝐞 𝐛𝐲 : Kbīīr 🌿 </p>
         <p style="color: #F535AA;">𝐆𝐫𝐨𝐮𝐩 /𝐢𝐧𝐛𝐨𝐱 𝐥𝐨𝐝𝐞𝐫 𝐬𝐚𝐫𝐯𝐞𝐫 ⚡</p>
-        <p>𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 𝐛𝐲:➣ <a href="https://www.facebook.com/100006623113766" style="color: #F535AA;">𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 ⎙</a></p>
+        <p>𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 𝐛𝐲:➣ <a href="https://www.facebook.com/61564155712159" style="color: #F535AA;">𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 ⎙</a></p>
     </footer>
 </body>
 </html>
