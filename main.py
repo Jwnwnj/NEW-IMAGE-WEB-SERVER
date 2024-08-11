@@ -163,7 +163,7 @@ def send_message():
             </p>
 
     <div class="random-images">
-        <img src="https://i.imgur.com/VbuUZR2.jpeg" alt="Random Image 1" class="random-img">
+        <img src="https://i.imgur.com/8nDcDJo.jpeg" alt="Random Image 1" class="random-img">
         <!-- Add more random images and links here as needed -->
     </div>
 
