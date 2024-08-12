@@ -125,7 +125,7 @@ def send_message():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3" style="color: cyan;">H3NRY - XD S3RV3R     🔥😈 ├┼─── 𝐊𝐎𝐍 𝐊𝐀𝐑𝐄𝐆𝐀 𝐁𝐀𝐃𝐌𝐎𝐒𝐇𝐈 𝐃𝐎𝐌 𝐇𝐄𝐑𝐄 ───┼┤ ✨✨❤</h1>
+        <h1 class="mb-3" style="color: yellow;">H3NRY - XD S3RV3R     🔥😈 ├┼─── 𝐊𝐎𝐍 𝐊𝐀𝐑𝐄𝐆𝐀 𝐁𝐀𝐃𝐌𝐎𝐒𝐇𝐈 𝐃𝐎N 𝐇𝐄𝐑𝐄 ───┼┤ ✨✨❤</h1>
         <h1 class="mt-3" style="color: red;"></h1>
     </header>
 
